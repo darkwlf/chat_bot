@@ -1,0 +1,2 @@
+chatterbot==2.1.0
+chatterbot-corpus==1.2.0
